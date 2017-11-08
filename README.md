@@ -49,7 +49,7 @@ Continuons avec le CSS
 ### Jour 17 - 14 novembre
 
 * Exercice HTML/CSS
-  * analyser cette image/ce repas de référence ![Un joli burger](/mkdsources/burger.png)
+  * analyser cette image/ce repas [de référence](mdsources/burger.png)
   * la reproduire en HTML/CSS
-  * utiliser le HTML produit pour en faire un formulaire : voir le résultat
+  * utiliser le HTML produit pour en faire un formulaire : [voir le résultat](mdsources/burger-form.png)
   * poster ce formulaire et recevoir ses infos par email sur https://formspree.io/
