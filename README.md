@@ -43,4 +43,13 @@ Continuons avec le CSS
 * référence de toutes les propriétés en français: https://developer.mozilla.org/fr/docs/Web/CSS/Reference
 * le premier challenge
   * fork du repository de référence (https://github.com/simplonsarcelles/html-css-challenges)
-  * TODO: essayer avec les teams de github classrooms avec le [lien d'invitation](https://classroom.github.com/g/_37Z6fE4)
+  * TODO: essayer avec les teams de github classrooms avec le [lien d'invitation](https://classroom.github.com/g/_37Z6fE4)  
+  
+
+### Jour 17 - 14 novembre
+
+* Exercice HTML/CSS
+  * analyser cette image/ce repas de référence ![Un joli burger](/mkdsources/burger.png)
+  * la reproduire en HTML/CSS
+  * utiliser le HTML produit pour en faire un formulaire : voir le résultat
+  * poster ce formulaire et recevoir ses infos par email sur https://formspree.io/
