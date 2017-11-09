@@ -63,20 +63,23 @@ Quelques documentations de référence:
 #### Le positionnement et les layouts
 
 * Introduction orale au positionnement: propriétés display et position
-* petit tuto à lire sur les concepts de positionnement: http://learnlayout.com
-* notion de responsive design: http://www.liquidapsive.com
-* découverte des grids: http://learncssgrid.com/
-  
-* Jouons avec les Flexbox: http://flexboxfroggy.com/
-* Jouons avec les Grids: http://cssgridgarden.com/
+* Des tutos pour mieux comprendre
+  * petit tuto à lire sur les concepts de positionnement: http://learnlayout.com
+  * notion de responsive design: http://www.liquidapsive.com
+  * découverte des grids: http://learncssgrid.com/
+* Des jeux pour mieux comprendre
+  * Jouons avec les Flexbox: http://flexboxfroggy.com/
+  * Jouons avec les Grids: http://cssgridgarden.com/
   
 * Exercice: reproduction d'un layout
-* Page de référence: http://www.liquidapsive.com
-  * avec des tables
-  * avec des floats
-  * avec flexbox
-  * avec des grids
-  * avec bootstrap
+  * Page de référence: http://www.liquidapsive.com
+  * Reproduire cette page de plusieurs manières
+    * avec des tables
+    * avec des floats
+    * avec flexbox
+    * avec des grids
+    * avec bootstrap, pour les warriors
+  * un repository pour cet exercice
 
 ### Jour 18 - 15 novembre  
 #### Le pré-processeur SASS et les media queries
@@ -103,4 +106,4 @@ Quelques documentations de référence:
 * démarrage projet : trame HTML / CSS
 
 ### Jour 20 - 17 novembre
-#### Le projet fil rouge : une ToDo list
+
