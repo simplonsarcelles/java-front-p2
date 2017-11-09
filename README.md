@@ -52,6 +52,7 @@ Quelques documentations de référence:
   * utiliser le HTML produit précédemment pour en faire un formulaire : [voir le résultat](mdsources/burger-form.png)
   * formulaire non imposé: l'image est un exemple, mettez les champs que vous voulez à l'endroit que vous souhaitez
   * poster ce formulaire et recevoir ses infos par email sur https://formspree.io/
+  * problème de post? indice:    *github pages* est là pour vous! 
   
 * **Le Premier Challenge**
   * fork du repository de référence (https://github.com/simplonsarcelles/html-css-challenges)
