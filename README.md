@@ -36,22 +36,14 @@ Programme de l'année pour la partie frontend
   * les sélecteurs CSS en s'amusant avec [CSS diner](https://flukeout.github.io/).
   
 ### Jour 16 - 13 novembre
+#### Jouer avec les propriétés CSS
 
-Continuons avec le CSS
+* Restitution des sélecteurs de CSS Diner
 
-* Le Box Model: documentation [en français](https://developer.mozilla.org/fr/Apprendre/CSS/Introduction_%C3%A0_CSS/Le_mod%C3%A8le_de_bo%C3%AEte) ou [en anglais](https://www.w3schools.com/css/css_boxmodel.asp)
-* petit tuto à lire : http://learnlayout.com
-
-* **Le Premier Challenge**
-  * fork du repository de référence (https://github.com/simplonsarcelles/html-css-challenges)
-  * TODO: essayer avec les teams de github classrooms avec le [lien d'invitation](https://classroom.github.com/g/_37Z6fE4)  
-
-Deux documentations de référence:
+Quelques documentations de référence:
 * toutes les propriétés CSS par catégorie en anglais: https://www.w3schools.com/cssref/
 * référence de toutes les propriétés en français: https://developer.mozilla.org/fr/docs/Web/CSS/Reference
-  
-
-### Jour 17 - 14 novembre
+* Le Box Model: documentation [en français](https://developer.mozilla.org/fr/Apprendre/CSS/Introduction_%C3%A0_CSS/Le_mod%C3%A8le_de_bo%C3%AEte) ou [en anglais](https://www.w3schools.com/css/css_boxmodel.asp)
 
 * Exercice 1 : reproduire une image en HTML/CSS
   * analyser cette image/ce repas [de référence](mdsources/burger.png)
@@ -61,8 +53,54 @@ Deux documentations de référence:
   * formulaire non imposé: l'image est un exemple, mettez les champs que vous voulez à l'endroit que vous souhaitez
   * poster ce formulaire et recevoir ses infos par email sur https://formspree.io/
   
-  ### Jour 18 - 15 novembre
+* **Le Premier Challenge**
+  * fork du repository de référence (https://github.com/simplonsarcelles/html-css-challenges)
+  * TODO: essayer avec les teams de github classrooms avec le [lien d'invitation](https://classroom.github.com/g/_37Z6fE4)  
+  * objectif: résoudre chaque exercice, et pusher le résultat dans le répertoire de l'exercice 
+
+
+### Jour 17 - 14 novembre  
+#### Le positionnement et les layouts
+
+* Introduction orale au positionnement: propriétés display et position
+* petit tuto à lire sur les concepts de positionnement: http://learnlayout.com
+* notion de responsive design: http://www.liquidapsive.com
+* découverte des grids: http://learncssgrid.com/
   
-  #### Les layouts
+* Jouons avec les Flexbox: http://flexboxfroggy.com/
+* Jouons avec les Grids: http://cssgridgarden.com/
   
-  * Découverte des différents types de layout
+* Exercice: reproduction d'un layout
+* Page de référence: http://www.liquidapsive.com
+  * avec des tables
+  * avec des floats
+  * avec flexbox
+  * avec des grids
+  * avec bootstrap
+
+### Jour 18 - 15 novembre  
+#### Le pré-processeur SASS et les media queries
+  
+* Découverte du besoin pour préprocesseurs
+  * variables en css
+  * héritage simplifié
+* Un préprocesseur populaire : le SASS
+  * [installation](http://sass-lang.com/install)
+  * [les principales fonctionnalités](http://sass-lang.com/guide)
+  * [la documentation complète](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+  
+* Exercice pour application
+  * reprendre le code du challenge
+  * faire un refactoring avec SASS
+
+### Jour 19 - 16 novembre
+#### Le projet fil rouge : une ToDo list
+
+* Objectif : produire une version simplifiée de Trello
+* spécifications du projet : rédaction d'un cahier des charges
+* déclinaison en user stories
+* utilisation de Trello pour méthode agile Kanban
+* démarrage projet : trame HTML / CSS
+
+### Jour 20 - 17 novembre
+#### Le projet fil rouge : une ToDo list
