@@ -106,4 +106,5 @@ Quelques documentations de référence:
 * démarrage projet : trame HTML / CSS
 
 ### Jour 20 - 17 novembre
-#### Les transitions et transformations en CSS
+#### Les transitions et transformations en CSS?
+#### Les protocoles du web?  TCP/IP, DNS, HTTP...
