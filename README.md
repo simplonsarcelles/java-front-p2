@@ -39,17 +39,30 @@ Programme de l'année pour la partie frontend
 
 Continuons avec le CSS
 
-* toutes les propriétés CSS par catégorie en anglais: https://www.w3schools.com/cssref/
-* référence de toutes les propriétés en français: https://developer.mozilla.org/fr/docs/Web/CSS/Reference
-* le premier challenge
+* Le Box Model: documentation [en français](https://developer.mozilla.org/fr/Apprendre/CSS/Introduction_%C3%A0_CSS/Le_mod%C3%A8le_de_bo%C3%AEte) ou [en anglais](https://www.w3schools.com/css/css_boxmodel.asp)
+* petit tuto à lire : http://learnlayout.com
+
+* **Le Premier Challenge**
   * fork du repository de référence (https://github.com/simplonsarcelles/html-css-challenges)
   * TODO: essayer avec les teams de github classrooms avec le [lien d'invitation](https://classroom.github.com/g/_37Z6fE4)  
+
+Deux documentations de référence:
+* toutes les propriétés CSS par catégorie en anglais: https://www.w3schools.com/cssref/
+* référence de toutes les propriétés en français: https://developer.mozilla.org/fr/docs/Web/CSS/Reference
   
 
 ### Jour 17 - 14 novembre
 
-* Exercice HTML/CSS
+* Exercice 1 : reproduire une image en HTML/CSS
   * analyser cette image/ce repas [de référence](mdsources/burger.png)
   * la reproduire en HTML/CSS
-  * utiliser le HTML produit pour en faire un formulaire : [voir le résultat](mdsources/burger-form.png)
+* Exercice 2 : les formulaires
+  * utiliser le HTML produit précédemment pour en faire un formulaire : [voir le résultat](mdsources/burger-form.png)
+  * formulaire non imposé: l'image est un exemple, mettez les champs que vous voulez à l'endroit que vous souhaitez
   * poster ce formulaire et recevoir ses infos par email sur https://formspree.io/
+  
+  ### Jour 18 - 15 novembre
+  
+  #### Les layouts
+  
+  * Découverte des différents types de layout
