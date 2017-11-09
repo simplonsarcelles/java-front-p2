@@ -107,4 +107,5 @@ Quelques documentations de référence:
 
 ### Jour 20 - 17 novembre
 #### Les transitions et transformations en CSS?
-#### Les protocoles du web?  TCP/IP, DNS, HTTP...
+#### Les protocoles du web?  TCP/IP, DNS, HTTP, SMTP ?
+#### Le framework bootstrap en détail?
