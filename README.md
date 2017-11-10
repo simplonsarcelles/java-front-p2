@@ -67,7 +67,9 @@ Quelques documentations de référence:
 * Des tutos pour mieux comprendre
   * petit tuto à lire sur les concepts de positionnement: http://learnlayout.com
   * notion de responsive design: http://www.liquidapsive.com
+  * découverte des flexbox sur [open classrooms](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/la-mise-en-page-avec-flexbox)
   * découverte des grids: http://learncssgrid.com/
+  
 * Des jeux pour mieux comprendre
   * Jouons avec les Flexbox: http://flexboxfroggy.com/
   * Jouons avec les Grids: http://cssgridgarden.com/
