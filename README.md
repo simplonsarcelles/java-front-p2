@@ -71,6 +71,7 @@ Quelques documentations de référence:
   * découverte des grids: http://learncssgrid.com/
   
 * Des jeux pour mieux comprendre
+  * Jouons avec les Flexbox: http://www.flexboxdefense.com/
   * Jouons avec les Flexbox: http://flexboxfroggy.com/
   * Jouons avec les Grids: http://cssgridgarden.com/
   
