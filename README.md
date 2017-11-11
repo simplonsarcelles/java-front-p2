@@ -80,6 +80,7 @@ Quelques documentations de référence:
   * Reproduire cette page de plusieurs manières
     * avec des tables
     * avec des floats
+    * en utilisant la propriété display: inline-block
     * avec flexbox
     * avec des grids
     * avec bootstrap, pour les warriors
