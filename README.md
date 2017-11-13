@@ -48,6 +48,8 @@ Quelques documentations de référence:
 * Exercice 1 : reproduire une image en HTML/CSS
   * analyser cette image/ce repas [de référence](mdsources/burger.png)
   * la reproduire en HTML/CSS
+  * propriétés à utiliser:
+    * border-top, border-bottom, border-radius, width, height, background-color, display (inline-block), 
 * Exercice 2 : les formulaires
   * utiliser le HTML produit précédemment pour en faire un formulaire : [voir le résultat](mdsources/burger-form.png)
   * formulaire non imposé: l'image est un exemple, mettez les champs que vous voulez à l'endroit que vous souhaitez
