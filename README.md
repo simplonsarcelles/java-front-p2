@@ -60,6 +60,7 @@ Quelques documentations de référence:
   * fork du repository de référence (https://github.com/simplonsarcelles/html-css-challenges)
   * TODO: essayer avec les teams de github classrooms avec le [lien d'invitation](https://classroom.github.com/g/_37Z6fE4)  
   * objectif: résoudre chaque exercice, et pusher le résultat dans le répertoire de l'exercice 
+  * groupes : les trouver [ici](mdsources/groupes-challenge-j17.PNG)
 
 
 ### Jour 17 - 14 novembre  
