@@ -65,7 +65,7 @@ Quelques documentations de référence:
 
 ### Jour 17 - 14 novembre  
 #### Le positionnement et les layouts
-
+* Présentation sur [le box model](mdsources/2017-11-14_-_the_box_model.pdf). (Merci Eric!)
 * Introduction orale au positionnement: propriétés display et position
 * Des tutos pour mieux comprendre
   * petit tuto à lire sur les concepts de positionnement: http://learnlayout.com
