@@ -35,7 +35,7 @@ Programme de l'année pour la partie frontend
 * Initiation au CSS
   * les sélecteurs CSS en s'amusant avec [CSS diner](https://flukeout.github.io/).
   
-### Jour 16 - 13 novembre
+### Jour 16-17 - 13 et 14 novembre
 #### Jouer avec les propriétés CSS
 
 * Restitution des sélecteurs de CSS Diner
@@ -63,7 +63,7 @@ Quelques documentations de référence:
   * groupes : les trouver [ici](mdsources/groupes-challenge-j17.PNG)
 
 
-### Jour 17 - 14 novembre  
+### Jour 17-18 - 15 et 16 novembre  
 #### Le positionnement et les layouts
 * Présentation sur [le box model](mdsources/2017-11-14_-_the_box_model.pdf). (Merci Eric!)
 * Introduction orale au positionnement: propriétés display et position
@@ -89,31 +89,11 @@ Quelques documentations de référence:
     * avec bootstrap, pour les warriors
   * un repository pour cet exercice
 
-### Jour 18 - 15 novembre  
-#### Le pré-processeur SASS et les media queries
-  
-* Découverte du besoin pour préprocesseurs
-  * variables en css
-  * héritage simplifié
-* Un préprocesseur populaire : le SASS
-  * [installation](http://sass-lang.com/install)
-  * [les principales fonctionnalités](http://sass-lang.com/guide)
-  * [la documentation complète](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
-  
-* Exercice pour application
-  * reprendre le code du challenge
-  * faire un refactoring avec SASS
-
-### Jour 19 - 16 novembre
-#### Le projet fil rouge : une ToDo list
-
-* Objectif : produire une version simplifiée de Trello
-* spécifications du projet : rédaction d'un cahier des charges
-* déclinaison en user stories
-* utilisation de Trello pour méthode agile Kanban
-* démarrage projet : trame HTML / CSS
-
 ### Jour 20 - 17 novembre
-#### Les transitions et transformations en CSS?
-#### Les protocoles du web?  TCP/IP, DNS, HTTP, SMTP ?
-#### Le framework bootstrap en détail?
+#### Hackathon
+
+### Jour 21 - 27 novembre
+#### Introduction au javascript
+
+* Suivi de cours sur http://campus.ow-lab.com/  
+* Support supplémentaire avec [des slides additionnelles](https://docs.google.com/presentation/d/1ENG9Op1QY90BjTzM7pJoPocv1nIqJ0C_MnMepZOCBCc/edit?usp=sharing)
