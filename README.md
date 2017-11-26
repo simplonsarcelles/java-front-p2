@@ -96,4 +96,5 @@ Quelques documentations de référence:
 #### Introduction au javascript
 
 * Suivi de cours sur http://campus.ow-lab.com/  
-* Support supplémentaire avec [des slides additionnelles](https://docs.google.com/presentation/d/1ENG9Op1QY90BjTzM7pJoPocv1nIqJ0C_MnMepZOCBCc/edit?usp=sharing)
+* Autoformation avec un jeu en ligne: http://silentteacher.toxicode.fr/
+* Faisons quelques exercices sur le repository : js-basic-exercices
