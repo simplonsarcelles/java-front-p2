@@ -107,3 +107,6 @@ Quelques documentations de référence:
 * Prendre ce [TP HTML](http://campus.ow-lab.com/exos/pdf/dev-html-session1.pdf)
   * les deux premiers exercices, le reproduire en HTML dans un fichier à part
   * une fois qu'on a le HTML, reconstruire entièrement la page uniquement en javascript, en partant d'un body vide
+
+### Jour 24 - 30 novembre
+* Des [exos supplémentaires](http://campus.ow-lab.com/exos/pdf/function-param-return-I.pdf) à réaliser en JS
