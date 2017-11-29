@@ -92,9 +92,18 @@ Quelques documentations de référence:
 ### Jour 20 - 17 novembre
 #### Hackathon
 
-### Jour 21 - 27 novembre
+### Jour 21 & 22 - 27 et 28 novembre
 #### Introduction au javascript
 
 * Suivi de cours sur http://campus.ow-lab.com/  
 * Autoformation avec un jeu en ligne: http://silentteacher.toxicode.fr/
 * Faisons quelques exercices sur le repository : js-basic-exercices
+
+### Jour 23 - 29 novembre
+#### Manipulation du DOM
+* Cours en ligne toujours sur http://campus.ow-lab.com/
+* Tutoriel 1 et 2 sur https://dom-tutorials.appspot.com/static/index.html
+* Exercice modification du burger : récupérez (fork) du repository simplonsarcelles/js-burger-modification
+* Prendre ce [TP HTML](http://campus.ow-lab.com/exos/pdf/dev-html-session1.pdf)
+  * les deux premiers exercices, le reproduire en HTML dans un fichier à part
+  * une fois qu'on a le HTML, reconstruire entièrement la page uniquement en javascript, en partant d'un body vide
