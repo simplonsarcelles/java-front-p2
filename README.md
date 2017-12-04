@@ -114,4 +114,4 @@ Quelques documentations de référence:
 ### Jour 26 - 5 décembre
 * Présentation des événements javascript avec un [support de cours](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/les-evenements-24)
 * Première séries d'exercices sur [ce fichier](mdsources/exercices-events.md)
-* Résolutions d'exercices en [suivant ce TP](http://campus.ow-lab.com/exos/pdf/dev-js-listes1.pdf)
+* (Optionnel, si assez de temps) Résolutions d'exercices en [suivant ce TP](http://campus.ow-lab.com/exos/pdf/dev-js-listes1.pdf)
