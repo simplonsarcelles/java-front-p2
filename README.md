@@ -99,7 +99,7 @@ Quelques documentations de référence:
 * Autoformation avec un jeu en ligne: http://silentteacher.toxicode.fr/
 * Faisons quelques exercices sur le repository : js-basic-exercices
 
-### Jour 23 - 29 novembre
+### Jour 23 & 24 - 29-30 novembre
 #### Manipulation du DOM
 * Cours en ligne toujours sur http://campus.ow-lab.com/
 * Tutoriel 1 et 2 sur https://dom-tutorials.appspot.com/static/index.html
@@ -108,5 +108,9 @@ Quelques documentations de référence:
   * les deux premiers exercices, le reproduire en HTML dans un fichier à part
   * une fois qu'on a le HTML, reconstruire entièrement la page uniquement en javascript, en partant d'un body vide
 
-### Jour 24 - 30 novembre
+### Jour 25 - 30 novembre
 * Des [exos supplémentaires](http://campus.ow-lab.com/exos/pdf/function-param-return-I.pdf) à réaliser en JS
+
+### Jour 26 - 5 décembre
+* Présentation des événements javascript avec un [support de cours](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/les-evenements-24)
+* Résolutions d'exercices en [suivant ce TP](http://campus.ow-lab.com/exos/pdf/dev-js-listes1.pdf)
