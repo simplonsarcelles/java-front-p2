@@ -119,9 +119,9 @@ Quelques documentations de référence:
 
 
 # 13 décembre
-https://github.com/simplonco/js-rna-transcription/
-https://github.com/simplonco/js-hamming/
-https://github.com/simplonco/js-bob/
+* https://github.com/simplonco/js-rna-transcription/
+* https://github.com/simplonco/js-hamming/
+* https://github.com/simplonco/js-bob/
 
 Pour chacun de ces exercices un fichier de test existe.
 Pour l'exécuter:
