@@ -116,3 +116,21 @@ Quelques documentations de référence:
 * [Présentation interne simplon](https://drive.google.com/open?id=1zEov7G0W1x9bf2bVtCA8X5_zX9ri4XVlZS-2SEy5ty0) sur les événements 
 * Première séries d'exercices sur [ce fichier](mdsources/exercices-events.md)
 * (Optionnel, si assez de temps) Résolutions d'exercices en [suivant ce TP](http://campus.ow-lab.com/exos/pdf/dev-js-listes1.pdf)
+
+
+# 13 décembre
+https://github.com/simplonco/js-rna-transcription/
+https://github.com/simplonco/js-hamming/
+https://github.com/simplonco/js-bob/
+
+Pour chacun de ces exercices un fichier de test existe.
+Pour l'exécuter:
+```shell
+# Install jasmine:
+$ sudo apt-get install nodejs-legacy
+$ sudo npm install -g jasmine-node
+
+# Go inside your project folder and:
+$ jasmine-node *.spec.js --verbose --captureExceptions
+```
+
