@@ -134,3 +134,6 @@ $ sudo npm install -g jasmine-node
 $ jasmine-node *.spec.js --verbose --captureExceptions
 ```
 
+Pour ceux qui souhaitent retravailler des choses plus simples:
+* http://campus.ow-lab.com/exos/pdf/dev-js-session1.pdf
+* http://campus.ow-lab.com/exos/pdf/dev-js-session2.pdf
