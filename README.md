@@ -116,6 +116,7 @@ Quelques documentations de référence:
 * [Présentation interne simplon](https://drive.google.com/open?id=1zEov7G0W1x9bf2bVtCA8X5_zX9ri4XVlZS-2SEy5ty0) sur les événements 
 * Première séries d'exercices sur [ce fichier](mdsources/exercices-events.md)
 * (Optionnel, si assez de temps) Résolutions d'exercices en [suivant ce TP](http://campus.ow-lab.com/exos/pdf/dev-js-listes1.pdf)
+* Et une correction possible du tp est disponible ici : [correction listes javascript](https://github.com/simplonsarcelles/java-front-p2/tree/master/mdsources/Corrections%20Listes%201) 
 
 
 # 13 décembre
