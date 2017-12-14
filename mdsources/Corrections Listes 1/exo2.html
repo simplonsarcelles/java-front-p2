@@ -1,0 +1,80 @@
+<html>
+        <head>
+            <meta charset="utf-8">
+        </head>
+        <body>
+    
+    
+            <input type="text" name="saisie" value="valeur par défaut" />
+            
+            <button id="ajouter">Ajouter</button>
+            <button id="supprimer">Supprimer</button>
+            
+    
+            <ul id="liste-cible"></ul>
+    
+            <script>
+                var list = document.querySelector('ul');
+                var addBtn = document.querySelector('button#ajouter');
+                var delBtn = document.querySelector('#supprimer');
+                var txtInput = document.querySelector('input[type="text"]')
+    
+    
+                var ajouter = function() {
+                    // on récupère la valeur de l'input
+                    var val = txtInput.value;
+    
+                    if(val.trim() == "") {
+                        alert("Le champ est vide");
+                    }
+                    else {
+                        // on crée un nouvel élément (pas encore dans ma page) li
+                        var li = document.createElement('li');
+    
+                        // on met la valeur de l'input (étape 1) dans le texte du nouvel élément
+                        li.textContent = val;
+    
+                        // on crée un input de type checkbox
+                        var checkbox = document.createElement('input');
+                        checkbox.setAttribute('type', 'checkbox');
+                        
+                        // on le rajoute dans notre listitem (= li)
+                        li.appendChild(checkbox);
+    
+                        // on l'insère dans la liste
+                        list.appendChild(li);
+    
+                        // Autre méthode qui fait tout en un :
+                        list.insertAdjacentHTML('beforeend',  
+                            '<li><input type="checkbox" /> ' + val + '</li>');
+                    }
+                }
+                addBtn.addEventListener('click', ajouter);
+                
+                var supprimer = function() {
+                    // je récupère toutes mes lignes
+                    var items = list.querySelectorAll('li');
+                    
+                    // pour chacune de mes lignes
+                    for(var i = 0; i < items.length; i++) {
+                        var li = items[i];
+    
+                        // je récupère l'input checkbox dans ma ligne
+                        var checkbox = li.querySelector('input');
+    
+                        // je vérifie si ma case est cochée
+                        var isChecked = checkbox.checked;
+    
+                        // si la case est cochée, je supprime ma ligne
+                        if(isChecked) {
+                            list.removeChild(li);
+                        }
+                    }
+                };
+                delBtn.addEventListener('click', supprimer);
+    
+                
+            </script>
+        </body>
+    </html>
+    

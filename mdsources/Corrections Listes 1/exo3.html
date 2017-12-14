@@ -1,0 +1,109 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <style>
+            #liste-cible li:first-of-type .fa-arrow-up {
+                display: none;
+            }
+            #liste-cible li:last-of-type .fa-arrow-down {
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+
+        <span class="fa fa-arrow-up"></span>
+        <span class="fa fa-arrow-down"></span>
+        
+
+        <input type="text" name="saisie" value="valeur par défaut" />
+        
+        <button id="ajouter">Ajouter</button>
+        <button id="supprimer">Supprimer</button>
+        
+
+        <ul id="liste-cible"></ul>
+
+        <script>
+            var list = document.querySelector('ul');
+            var addBtn = document.querySelector('button#ajouter');
+            var delBtn = document.querySelector('#supprimer');
+            var txtInput = document.querySelector('input[type="text"]')
+
+            function moveUp (evt) {
+                var clickedLi = evt.target.parentNode;
+                var ul = clickedLi.parentNode;
+                var prevLi = clickedLi.previousElementSibling;
+                // cas du premier li
+                if(prevLi == null)
+                    return;
+
+                ul.insertBefore(clickedLi, prevLi);
+            }
+
+            function moveDown(evt) {
+                var clickedLi = evt.target.parentNode;
+                var nextLi = clickedLi.nextElementSibling;
+                // cas du dernier li
+                if(nextLi == null)
+                    return;
+
+                list.insertBefore(nextLi, clickedLi);
+            }
+
+            var ajouter = function() {
+                // on récupère la valeur de l'input
+                var val = txtInput.value;
+
+                if(val.trim() == "") {
+                    alert("Le champ est vide");
+                }
+                else {
+                    
+                    var arrowUpStr = '<span class="fa fa-arrow-up"></span>';
+                    var arrowDownStr = '<span class="fa fa-arrow-down"></span>'
+
+                    list.insertAdjacentHTML('beforeend',  
+                        '<li><input type="checkbox" /> ' + val +  arrowUpStr + arrowDownStr + '</li>');
+
+                    var lis = list.querySelectorAll('li');
+                    var li = lis[lis.length - 1];
+
+                    var up = li.querySelector('.fa-arrow-up');
+                    up.addEventListener('click', moveUp);             
+
+                    
+                    var down = li.querySelector('.fa-arrow-down');
+                    down.addEventListener('click', moveDown);             
+
+                }
+            }
+            addBtn.addEventListener('click', ajouter);
+            
+            var supprimer = function() {
+                // je récupère toutes mes lignes
+                var items = list.querySelectorAll('li');
+                
+                // pour chacune de mes lignes
+                for(var i = 0; i < items.length; i++) {
+                    var li = items[i];
+
+                    // je récupère l'input checkbox dans ma ligne
+                    var checkbox = li.querySelector('input');
+
+                    // je vérifie si ma case est cochée
+                    var isChecked = checkbox.checked;
+
+                    // si la case est cochée, je supprime ma ligne
+                    if(isChecked) {
+                        list.removeChild(li);
+                    }
+                }
+            };
+            delBtn.addEventListener('click', supprimer);
+
+            
+        </script>
+    </body>
+</html>
